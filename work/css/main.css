@@ -90,7 +90,7 @@ a:active {
     line-height: 40px;
 }
 .heading p {
-    font-size: 18px;
+    font-size: 22px;
     line-height: 28px;
     font-weight: 300;
 }
@@ -335,10 +335,7 @@ a:active {
 
 
 
-#hero-area {
-  padding:180px 0;
-    background: rgba(0, 0, 0, 0) repeat scroll 0 0;
-}
+
 #hero-area:before {
     content: "";
     position: absolute;
@@ -355,13 +352,13 @@ a:active {
   padding-top: 100px;
 }
 #hero-area .block h1 {
-  margin-bottom: 35px;
-  text-transform: uppercase;
-  font-size: 40px;
-  letter-spacing: 6px;
+    line-height: normal;
+  font-size: 5em;
   position: relative;
+  color: #5a5757;
+  font-weight: bold;
 }
-#hero-area .block h1:before {
+/* #hero-area .block h1:before {
   content: "";
   position: absolute;
   left: 0;
@@ -369,8 +366,69 @@ a:active {
   background: #000;
   height: 3px;
   width: 110px;
+} */
 
+/* Apply responsive styles to the hero area */
+#hero-area {
+    padding: 100px 0;
+  }
+  
+  /* Adjust styles for medium-sized screens and above */
+  @media (max-width: 768px) {
+    #hero-area {
+      padding: 150px 0;
+    }
+    #hero-area .block h1 {
+        font-size: 3em;
+        position: relative;
+      }
+  }
+  
+
+
+
+/* Apply responsive styles to the middle section */
+#middle {
+    padding: 50px 0;
+  }
+  
+#middle .block {
+    margin-bottom: 20px;
+  }
+  
+  #middle .block p {
+    font-size: 1.25em;
 }
+
+ .btn-home {
+    display: block;
+    width: 100%;
+  }
+  
+  /* Adjust styles for medium-sized screens and above */
+  @media (min-width: 768px) {
+    #middle {
+      padding: 100px 0;
+    }
+    
+    #middle .block {
+      margin-bottom: 140px;
+    }
+    
+    #middle .block p {
+        font-size: auto;
+    }
+
+    .btn-home {
+      width: auto;
+    }
+  }
+
+  
+/* #middle {
+    position: relative;
+    top: 200px; 
+  } */
 
 
 
@@ -550,7 +608,7 @@ a:active {
     margin: 0 0 10px;
     color: #333333;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 18px;
     margin-bottom: 20px;
     letter-spacing: 1px;
     font-weight: normal;
@@ -668,7 +726,7 @@ background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#8ec6
 }
 #service .caption p {
     line-height: 1.5;
-    font-size: 15px;
+    font-size: 18px;
     color: #7e7e7e;
 }
 /*--
@@ -687,9 +745,10 @@ background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#8ec6
     color: #898989;
 }
 #about .block p {
-    font-size: 15px;
+    font-size: 18px;
     color: #7e7e7e;
     line-height: 30px;
+    text-align: justify;
 }
 #about .block .bottom-text {
     padding-right: 20px;
@@ -761,9 +820,9 @@ background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#8ec6
     vertical-align: middle;
 }
 
-#contact {
+/* #contact {
 
-}
+} */
 hr {
     border: none;
     border-top: 1px solid #ccc;
@@ -775,7 +834,7 @@ hr {
 }
 .address p {
   margin-bottom: 20px;
-  font-size: 13px;
+  font-size: 18px;
   line-height: 22px;
   color: #666;
 }
@@ -816,7 +875,8 @@ hr {
 }
 
 .input-field label {
-    color: rgba(237, 28, 36, 0.7);
+    /* color: rgba(237, 28, 36, 0.7); */
+    color: #666;
 } 
 .form-group .input-field + .input-field {
     margin-top: 20px;
@@ -849,6 +909,10 @@ footer {
     text-align: center;
     background: #272727;
     padding: 27px 0px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 footer p {
     font-weight: 300;
