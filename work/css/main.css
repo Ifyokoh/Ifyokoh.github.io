@@ -860,6 +860,11 @@ hr {
     margin-bottom: 24px;
     border-radius: 0;
 }
+
+#cb {
+    accent-color: #3c8c64;
+  }
+
 .btn-send {
     line-height: 48px;
     border: 2px solid #47b475;
