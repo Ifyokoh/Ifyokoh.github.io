@@ -82,7 +82,7 @@ a:active {
     padding-bottom: 70px;
 }
 .heading h2 {
-    color: #3c3c3c;
+    color: #3c8c64;
     padding-bottom: 30px;
     text-transform: capitalize;
     font-weight: 300;
@@ -123,10 +123,10 @@ a:active {
 }
 
 .btn-home {
-  background-color: transparent;
-  border: 1px solid #333;
+  background-color: #3c8c64;
+  border: 1px solid #3c8c64;
   border-radius: 0px;
-  color: #333;
+  color: #fff;
   font-size: 18px;
   padding: 10px 40px;
   margin-top: 30px;
@@ -464,7 +464,7 @@ a:active {
 }
 
 .navbar-default.animated {
-    background-color: #fff;
+    background-color: #3c8c64;
     box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.15);
     padding:10px;
 }
@@ -491,7 +491,7 @@ a:active {
 }
 .navbar-default.animated .navbar-nav > li > a,
 .navbar-default.animated .navbar-nav > li > a:hover {
-    color: #000;
+    color: #fff;
 }
 .navbar-default .navbar-nav > li.current > a {
     color: #fff;
