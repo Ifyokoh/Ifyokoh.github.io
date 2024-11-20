@@ -47,6 +47,7 @@ Previously, I completed my master’s degree in Mathematics from University of I
     <div class="links">
       <a href="https://aclanthology.org/2024.lrec-main.1384.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">PDF</a>
       <a href="https://charmed-sycamore-9e5.notion.site/Accessing-the-IgboAPI-Dataset-96f3981a329841cd83409eecc4ce1151" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px; color: black; text-decoration: none;">DATA</a>
+     <a href="https://huggingface.co/Ifyokoh/m2m100_dialect_ibo_en_mt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px;color: black; text-decoration: none;">MODEL</a>
       <a href="https://www.youtube.com/watch?v=bfUAnRtQ2WY" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; border: 1px solid black; padding: 4px; color: black; text-decoration: none;">PRESENTATION</a>
     </div>
   </div>
