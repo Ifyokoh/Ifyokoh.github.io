@@ -15,12 +15,14 @@ Previously, I completed my master’s degree in Mathematics from University of I
  <br>
 
 ### Research Interests
-- Computational Linguistics
+
+- Multilingual NLP
 - Machine Translation
-- Multilingual Natural Language Processing
-- Low-Resource Languages
-- Cross-Lingual Methods
-- Linguistic diversity
+- Human-Centered NLP
+- Fairness and Bias Mitigation in AI
+- Transfer and Cross-Lingual Learning
+- Computational Linguistics
+- Linguistic Diversity and Language Variation
 
 <br>
 
