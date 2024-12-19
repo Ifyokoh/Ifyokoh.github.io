@@ -19,7 +19,7 @@ Previously, I completed my master’s degree in Mathematics from University of I
 - Multilingual NLP
 - Machine Translation
 - Human-Centered NLP
-- Fairness and Bias Mitigation in AI
+- Trustworthy AI
 - Transfer and Cross-Lingual Learning
 - Computational Linguistics
 - Linguistic Diversity and Language Variation
