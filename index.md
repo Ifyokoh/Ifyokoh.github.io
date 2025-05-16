@@ -8,7 +8,8 @@ layout: default
 <!-- Hi! I'm Ify, an independent researcher at [Masakhane](https://www.masakhane.io/) an open science community where Africans do AI research for Africa.  Prior to this, I spent three years as a Data Scientist in the industry. -->
 Hi I'm Ify, a data scientist and researcher.
 
-My research focuses on improving multilingual, human-centered Natural Language Processing (NLP) for low-resource languages by leveraging methods like transfer learning and bias mitigation techniques. I work on machine translation, multilingual models, and language variation to create more accurate, fair and inclusive NLP systems for diverse languages and communities. 
+My research focuses on improving multilingual, human-centered Natural Language Processing (NLP) for low-resource languages by leveraging methods like transfer learning and bias mitigation techniques. I work on machine translation, multilingual models, and language variation to create more accurate, NLP systems for diverse languages. 
+<!--  fair and inclusive NLP systems for diverse languages and communities. -->
 
 
 Previously, I completed my master’s degree in Mathematics from University of Ibadan in 2021 and my bachelor’s degree in Mathematics from University of Nigeria, Nsukka.
