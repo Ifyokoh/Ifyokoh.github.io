@@ -5,7 +5,8 @@ layout: default
 
 ### About Me
 
-Hi! I'm Ify, an independent researcher at [Masakhane](https://www.masakhane.io/) an open science community where Africans do AI research for Africa.  Prior to this, I spent three years as a Data Scientist in the industry.
+<!-- Hi! I'm Ify, an independent researcher at [Masakhane](https://www.masakhane.io/) an open science community where Africans do AI research for Africa.  Prior to this, I spent three years as a Data Scientist in the industry. -->
+Hi I'm Ify, a data scientist and researcher.
 
 My research focuses on improving multilingual, human-centered Natural Language Processing (NLP) for low-resource languages by leveraging methods like transfer learning and bias mitigation techniques. I work on machine translation, multilingual models, and language variation to create more accurate, fair and inclusive NLP systems for diverse languages and communities. 
 
@@ -28,7 +29,7 @@ Previously, I completed my master’s degree in Mathematics from University of I
 
 ### News
 
-- [Sept. 2024] Started as a Pre-Doctoral AI Research Fellow at *[Fatima Fellowship](https://fatimafellowship.com/)*.
+<!-- - [Sept. 2024] Started as a Pre-Doctoral AI Research Fellow at *[Fatima Fellowship](https://fatimafellowship.com/)*. -->
 - [May. 2024] I presented my work “The IgboAPI Dataset: Empowering Igbo Language Technologies through Multi-dialectal Enrichment” at LREC-COLING 2024!.
 - [Feb. 2024] Our paper "The IgboAPI Dataset: Empowering Igbo Language Technologies through Multi-dialectal Enrichment" is accepted to *[LREC-COLING 2024](https://lrec-coling-2024.org/)*.
 
